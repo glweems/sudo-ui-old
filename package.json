@@ -9,7 +9,7 @@
   "main": "./src/index.js",
   "scripts": {
     "dev": "webpack-dashboard -- webpack-dev-server src/index.js --mode development",
-    "build": "webpack --mode development"
+    // "build": "webpack --mode development"
   },
   "keywords": [
     "scss",
